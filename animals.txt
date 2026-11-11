@@ -3,3 +3,4 @@ seals
 narwhals
 halibut
 hammerhead
+salmon
