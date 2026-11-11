@@ -4,3 +4,4 @@ narwhals
 halibut
 hammerhead
 salmon
+crab
